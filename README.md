@@ -40,3 +40,9 @@ Para o uso dacalculadora é necessário clicar primeiramente no número e em seg
 
         5² = 25 
         5 ^ 2 = 25 
+
+## Configuração 
+    
+- Sistema Operacional Windows 10.
+- .NET Framework, versão v4.7.2
+
